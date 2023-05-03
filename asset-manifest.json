@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Textutlis-react/static/css/main.2c7a3fc0.css",
-    "main.js": "/Textutlis-react/static/js/main.a6092e45.js",
+    "main.js": "/Textutlis-react/static/js/main.6c99d5da.js",
     "static/js/787.aec11719.chunk.js": "/Textutlis-react/static/js/787.aec11719.chunk.js",
     "index.html": "/Textutlis-react/index.html",
     "main.2c7a3fc0.css.map": "/Textutlis-react/static/css/main.2c7a3fc0.css.map",
-    "main.a6092e45.js.map": "/Textutlis-react/static/js/main.a6092e45.js.map",
+    "main.6c99d5da.js.map": "/Textutlis-react/static/js/main.6c99d5da.js.map",
     "787.aec11719.chunk.js.map": "/Textutlis-react/static/js/787.aec11719.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c7a3fc0.css",
-    "static/js/main.a6092e45.js"
+    "static/js/main.6c99d5da.js"
   ]
 }
